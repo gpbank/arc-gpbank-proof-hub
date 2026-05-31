@@ -1,0 +1,8 @@
+{
+  "chainId": 5042002,
+  "rpc": "https://rpc.testnet.arc.network",
+  "contract": "ArcGpbankProofHub",
+  "address": "0x44d59ed966B3969B8E2dB1677c8aC4B904BaD96B",
+  "txHash": "0x6d364176846a3dac2a9b164257e71b6d9656113d3cecd59a77b35fd07fa8732b",
+  "deployer": "0xF226712E3Bb91156E985eb995E1ae524Ca8896EC"
+}
